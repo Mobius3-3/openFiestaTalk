@@ -12,7 +12,8 @@ Alex introduced features of his company and the strong competitive power of thei
 
 </br>
 Maybe is an AI company, specialized in voice technology, that develops voice-controlled devices and voice processing chipsets.
-![..](../images/event1/9f178c31a60cd44c4662f9f8b686868.jpg)
+
+![..](https://github.com/AndyBeHere/openFiestaTalk/blob/master/%E2%80%ABimages/event1/9f178c31a60cd44c4662f9f8b686868.jpg)
 Maybe is supported by 3 of the biggest Internet companies in the world: Tencent, Baidu and Mail.ru through strategic partnerships.
 ![..](../images/event1/85ecb2094a4c4083e2911774f4b134c.jpg)
 The team composed of PhDs in Machine Learning has more than 13 years of experience in Artificial Intelligence, software/electrical/mechanical engineering, and have built products for Google, Samsung and Huawei. The team also went through YCombinator in 2016.
