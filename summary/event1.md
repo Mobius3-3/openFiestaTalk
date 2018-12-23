@@ -1,4 +1,6 @@
 # summary of event1
+</br>
+</br>
 
 ## writer info 
 ALEXIS PONS
@@ -21,12 +23,14 @@ Alex introduced features of his company and the strong competitive power of thei
 </br>
 Maybe is an AI company, specialized in voice technology, that develops voice-controlled devices and voice processing chipsets.
 </br>
+
 ![image](https://github.com/AndyBeHere/openFiestaTalk/blob/master/%E2%80%ABimages/event1/9f178c31a60cd44c4662f9f8b686868.jpg)
 
 </br>
 
 Maybe is supported by 3 of the biggest Internet companies in the world: Tencent, Baidu and Mail.ru through strategic partnerships.
 </br>
+
 ![images](https://github.com/AndyBeHere/openFiestaTalk/blob/master/%E2%80%ABimages/event1/85ecb2094a4c4083e2911774f4b134c.jpg)
 </br>
 
@@ -39,6 +43,7 @@ The team composed of PhDs in Machine Learning has more than 13 years of experien
 
 ## Panel Discuession
 </br>
+
 ![images](https://github.com/AndyBeHere/openFiestaTalk/blob/master/%E2%80%ABimages/event1/8be70cc559147a3374362801562b203.jpg)
 
 </br>
@@ -48,7 +53,8 @@ Q: What is the best career advice you¡¯ve ever received and would you give to 
 
 A: When you are young, you have to take up the challenge. I mean, when you come across an opportunity, you can choose to do it or not. At this time, you might as well give it a try.
 </br>
-![..](../images/event1/211279664cf4fdf0dbe42a1e11c7412.jpg)
+
+![images](../images/event1/211279664cf4fdf0dbe42a1e11c7412.jpg)
 
 </br>
 
