@@ -54,7 +54,7 @@ Q: What is the best career advice you¡¯ve ever received and would you give to 
 A: When you are young, you have to take up the challenge. I mean, when you come across an opportunity, you can choose to do it or not. At this time, you might as well give it a try.
 </br>
 
-![images](../images/event1/211279664cf4fdf0dbe42a1e11c7412.jpg)
+![images](https://github.com/AndyBeHere/openFiestaTalk/blob/master/%E2%80%ABimages/event1/211279664cf4fdf0dbe42a1e11c7412.png)
 
 </br>
 
