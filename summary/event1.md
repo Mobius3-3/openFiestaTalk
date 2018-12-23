@@ -8,7 +8,7 @@ Prior to joining Maybe, Alexis was the CEO of MiH Innovation a Shenzhen based pr
 ## speech info
 Alex introduced features of his company and the strong competitive power of their products. Main content of his speech is as follow:
 
-![](../images/event1/85def3773cffe889f302a3fb9939759.jpg)
+![](/images/event1/85def3773cffe889f302a3fb9939759.jpg)
 
 </br>
 Maybe is an AI company, specialized in voice technology, that develops voice-controlled devices and voice processing chipsets.
