@@ -2,8 +2,9 @@
 
 ## writer info 
 ALEXIS PONS
-> Head of Global and General Partner at Maybe electronics, a software and hardware company developing AI technology solutions for learning languages and education programs.
-Prior to joining Maybe, Alexis was the CEO of MiH Innovation a Shenzhen based product development consultancy founded to bring startup hardware products from concept to consumer. Additionally, he ran the first deployment of the Startup Department at 3NOD Group Shenzhen. Alexis earned his dual Master¡¯s degree in Management and Marketing - Strategy from ISG Paris Business School.
+> Head of Global and General Partner at Maybe electronics, a software and hardware company developing AI technology solutions for learning languages and education programs.</br>
+Prior to joining Maybe, Alexis was the CEO of MiH Innovation a Shenzhen based product development consultancy founded to bring startup hardware products from concept to consumer. </br>
+Additionally, he ran the first deployment of the Startup Department at 3NOD Group Shenzhen. Alexis earned his dual Master¡¯s degree in Management and Marketing - Strategy from ISG Paris Business School.
 
 ## speech info
 Alex introduced features of his company and the strong competitive power of their products. Main content of his speech is as follow:
