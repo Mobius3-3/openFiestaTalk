@@ -7,9 +7,11 @@ DONNY
 > Donny received his Bachelor¡'s degree in Electrical Engineering and Automation from Harbin Institute of Technology (Harbin, China) and Master¡¯s degree in Electrical Engineering from State University of New York at Stony Brook (Stony Brook, USA).
 
 </br>
+
 Donny¡'s rich experiences in smart hardware and Internet of Things products have helped a lot of companies to develop and deploy their smart products to the market quickly and with acceptable cost. 
 
 </br>
+
 He established deep partnership with world¡'s largest hardware accelerator: HAX. More than 120 hardware companies (mostly startups) have benefited from Donny¡'s professional service in product definition, R&D, DFT/DFM, prototyping, production and certifications. He offers the solution that brings an idea to a physical hardware product.
 
 </br>
