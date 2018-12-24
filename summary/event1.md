@@ -6,9 +6,11 @@
 ALEXIS PONS
 > Head of Global and General Partner at Maybe electronics, a software and hardware company developing AI technology solutions for learning languages and education programs.
 </br>
+
 Prior to joining Maybe, Alexis was the CEO of MiH Innovation a Shenzhen based product development consultancy founded to bring startup hardware products from concept to consumer. 
 </br>
-Additionally, he ran the first deployment of the Startup Department at 3NOD Group Shenzhen. Alexis earned his dual Master¡¯s degree in Management and Marketing - Strategy from ISG Paris Business School.
+
+Additionally, he ran the first deployment of the Startup Department at 3NOD Group Shenzhen. Alexis earned his dual Master's degree in Management and Marketing - Strategy from ISG Paris Business School.
 
 
 </br>
@@ -54,7 +56,7 @@ Q: What is the best career advice you¡¯ve ever received and would you give to 
 A: When you are young, you have to take up the challenge. I mean, when you come across an opportunity, you can choose to do it or not. At this time, you might as well give it a try.
 </br>
 
-![images](../images/event1/211279664cf4fdf0dbe42a1e11c7412.jpg)
+![images](https://github.com/AndyBeHere/openFiestaTalk/blob/master/%E2%80%ABimages/event1/211279664cf4fdf0dbe42a1e11c7412.png)
 
 </br>
 
